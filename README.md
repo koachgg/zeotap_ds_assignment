@@ -17,7 +17,7 @@ I've split my work into three main parts:
    - Perfect for finding customer twins! 👥
 
 3. **Clustering Analysis**
-   - `belo_abhigyan_Clustering.ipynb` & `belo_abhigyan_Clustering.pdf`
+   - `belo_abhigyan_Clustering.ipynb`
    - I group similar customers together
    - Used K-means clustering and made some cool visualizations 🎨
 
